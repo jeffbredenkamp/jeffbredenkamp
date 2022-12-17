@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **SCSS, Git, JS and Vue**
 
+- 💬 Ask me about **HTML, CSS and Vintage Toys.**
+
 - 📫 How to reach me **jeffbredenkamp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
