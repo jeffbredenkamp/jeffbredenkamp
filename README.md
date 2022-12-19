@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jeff Bredenkamp</h1>
-<h3 align="center">A passionate Web Designer from the UK.</h3>
+<h1>Hi 👋, I'm Jeff Bredenkamp</h1>
+<h3>A passionate Web Designer from the UK.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffbredenkamp&label=Profile%20views&color=0e75b6&style=flat" alt="jeffbredenkamp" /> </p>
 
